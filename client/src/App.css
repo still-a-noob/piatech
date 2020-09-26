@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-image: url("./images/water2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(53, 51, 51);
+  letter-spacing: 0.5px;
+  font-size: 16px;
+  font-weight: 300;
+}
